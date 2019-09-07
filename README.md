@@ -4,3 +4,4 @@ for a course in Open Source software development.
 
 Contributions to other students of this class, wikipedia and open street are recorded in **contributions.md**  
 
+Blogs are recorded in **Posts**
