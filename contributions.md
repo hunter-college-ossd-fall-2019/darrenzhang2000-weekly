@@ -19,6 +19,6 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | link to my contribution    | Blog Edit    |   I fixed a broken link.    |
+|  3   | https://www.openstreetmap.org/changeset/74403275   | Open Street Map Edit    |   I added a subway entrance    |
 |     |     |     |      |
 |     |     |     |      |
