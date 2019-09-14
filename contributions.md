@@ -21,5 +21,5 @@ Replace the first row below with your contribution.
 |---|:---|:---|:---|
 |  3   | https://www.openstreetmap.org/changeset/74403275   | Open Street Map Edit    |   I added a subway entrance    |
 |  4   | https://www.openstreetmap.org/changeset/74483355    | Open Street Map Edit    |  I added a store that wasn't labeled previously  
-|  5   | https://www.openstreetmap.org/changeset/74483412   | Open Street Map Edit | I added a store named He Xie Grocery Store|
-|     |     |     |      |
+|  4   | https://www.openstreetmap.org/changeset/74483412   | Open Street Map Edit | I added a store named He Xie Grocery Store|
+|  4   | https://www.openstreetmap.org/changeset/74483470    | Open Street Map Edit    | I labeled a 99 cent pizza store     |
