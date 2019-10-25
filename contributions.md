@@ -24,3 +24,4 @@ Replace the first row below with your contribution.
 |  4   | https://www.openstreetmap.org/changeset/74483412   | Open Street Map Edit | I added a store named He Xie Grocery Store|
 |  4   | https://www.openstreetmap.org/changeset/74483470    | Open Street Map Edit    | I labeled a 99 cent pizza store     |
 |  5   | https://github.com/hunter-college-ossd-fall-2019/srafi1-weekly/pulls | Blog Edit | I added a url for group activity 1 |
+|  9   |https://www.openstreetmap.org/changeset/76225258    | Open Street Map Edit   | I added a pharmacy and store that wasn't on the map|
