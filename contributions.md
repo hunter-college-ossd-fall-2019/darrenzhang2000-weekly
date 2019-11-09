@@ -26,3 +26,4 @@ Replace the first row below with your contribution.
 |  5   | https://github.com/hunter-college-ossd-fall-2019/srafi1-weekly/pulls | Blog Edit | I added a url for group activity 1 |
 |  9   |https://www.openstreetmap.org/changeset/76225258    | Open Street Map Edit   | I added a pharmacy and store that wasn't on the map|
 |  9   |https://www.openstreetmap.org/edit#map=19/40.71394/-73.99036| Open Street Map Edit | I added a store that wasn't on the map|
+| 11   |https://en.wikipedia.org/wiki/Special:Contributions/Darrenzhang2000 | Wikipedia Edit |I added Ada as an eligible programming language |
