@@ -29,3 +29,4 @@ Replace the first row below with your contribution.
 | 11   |https://en.wikipedia.org/wiki/Special:Contributions/Darrenzhang2000 | Wikipedia Edit |I added Ada as an eligible programming language |
 | 11   |https://en.wikipedia.org/wiki/Special:Contributions/Darrenzhang2000| Wikipedia Edit |I mentioned the contest rule that there is no time consumed for a problem that is not solved.|
 | 12   |https://en.wikipedia.org/wiki/Special:Contributions/Darrenzhang2000| Wikipedia Edit |Fixed grammar on Nuwan Kulasekara's page by adding "was".|
+| 12   |https://en.wikipedia.org/wiki/Special:Contributions/Darrenzhang2000| Wikipedia Edit |Removed period on Morsbach's page that doesn't belong there.|
