@@ -30,3 +30,4 @@ Replace the first row below with your contribution.
 | 11   |https://en.wikipedia.org/wiki/Special:Contributions/Darrenzhang2000| Wikipedia Edit |I mentioned the contest rule that there is no time consumed for a problem that is not solved.|
 | 12   |https://en.wikipedia.org/wiki/Special:Contributions/Darrenzhang2000| Wikipedia Edit |Fixed grammar on Nuwan Kulasekara's page by adding "was".|
 | 12   |https://en.wikipedia.org/wiki/Special:Contributions/Darrenzhang2000| Wikipedia Edit |Removed period on Morsbach's page that doesn't belong there.|
+| 13   |https://github.com/hunter-college-ossd-fall-2019/srafi1-weekly/pull/3| Blog Edit | Added a hyperlink for Wikipedia Page for  Shakil's week 12 blog| 
