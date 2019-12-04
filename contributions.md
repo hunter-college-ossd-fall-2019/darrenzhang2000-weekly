@@ -33,4 +33,4 @@ Replace the first row below with your contribution.
 | 13   |https://github.com/hunter-college-ossd-fall-2019/srafi1-weekly/pull/3| Blog Edit | Added a hyperlink for Wikipedia Page for  Shakil's week 11 blog| 
 | 13  | https://github.com/hunter-college-ossd-fall-2019/srafi1-weekly/pull/4 | Blog Edit | Added a hyperlink for Hub for Shakil's week 10 blog|
 |13 | https://github.com/hunter-college-ossd-fall-2019/srafi1-weekly/pull/5 | Blog Edit | Added a hyperlink for Hugo for Shakil's week 7 blog|
-
+| 13 | https://github.com/hunter-college-ossd-fall-2019/ariella879-weekly/pull/9| Blog Edit | Added a sentence and hyperlink discussing where the Systems 76 article can be found for Ariella's week 12 blog. |
